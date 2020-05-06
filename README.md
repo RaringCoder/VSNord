@@ -17,3 +17,11 @@ If you want to make your own changes, you will need the [Visual Studio Color The
 ![Tab dock](/Screenshots/TabBar.png?raw=true "Active, hover, and inactive tabs")
 
 ![Tool window dock](/Screenshots/ToolWindowDock.png?raw=true "Tool window buttons")
+
+![Status bar while building](/Screenshots/StatusBarBuilding.png?raw=true "Status bar while building")
+
+![VS icon while building](/Screenshots/VSIconBuilding.png?raw=true "VS icon while building")
+
+![Status bar while debugging](/Screenshots/StatusBarDebugging.png?raw=true "Status bar while debugging")
+
+![VS icon while debugging](/Screenshots/VSIconDebugging.png?raw=true "VS icon while debugging")
