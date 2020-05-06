@@ -1,4 +1,4 @@
-# VSNord
+# Visual Studio 2019 Nord Theme
 
 My take on a light Nord theme for VS 2019. This doesn't change editor text colours, just the VS windows, menu backgrounds, status bar, etc.
 
